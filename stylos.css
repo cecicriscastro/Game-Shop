@@ -1,0 +1,15 @@
+.fondo-imagen {
+    background-image: url('imag/img\ 1.png');
+    background-size: cover; 
+    background-position: center;
+    height: 100vh; 
+    color: white;
+}
+
+.colorRojo{
+    color: red !important;
+}
+
+.envioGratis{
+   color: #B0CE80;
+}
